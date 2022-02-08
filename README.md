@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AmosNdungu-AN
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Sql and R Studio
+- 👋 Hi, I’m @AmosNdungu-AN 
+- 🌱 I am a data analyst knowledgeable in SQL, Excel and Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
